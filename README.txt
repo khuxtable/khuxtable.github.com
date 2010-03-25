@@ -1,1 +1,1 @@
-Basic GitHub page.
+Basic GitHub page pointing people to my projects page on my blog.
